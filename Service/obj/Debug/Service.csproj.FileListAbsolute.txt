@@ -1,0 +1,11 @@
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\Service.dll
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\Service.pdb
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\CommonLibary.dll
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\Repository.dll
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\Dapper.dll
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\CommonLibary.pdb
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\Repository.pdb
+D:\研究中心\LineLoginExample\LineLoginExample\Service\bin\Debug\Dapper.xml
+D:\研究中心\LineLoginExample\LineLoginExample\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\研究中心\LineLoginExample\LineLoginExample\Service\obj\Debug\Service.dll
+D:\研究中心\LineLoginExample\LineLoginExample\Service\obj\Debug\Service.pdb

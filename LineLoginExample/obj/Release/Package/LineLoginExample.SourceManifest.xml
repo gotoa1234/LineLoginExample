@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\研究中心\LineLoginExample\LineLoginExample\LineLoginExample\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\研究中心\LineLoginExample\LineLoginExample\LineLoginExample\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\研究中心\LineLoginExample\LineLoginExample\LineLoginExample\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

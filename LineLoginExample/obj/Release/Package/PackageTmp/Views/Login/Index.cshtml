@@ -1,0 +1,40 @@
+﻿@model CommonLibary.Model.ViewModel.LineLoginExample.LoginViewModel
+@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+}
+
+<div class="jumbotron">
+    <H1>Line Bot 帳號登入頁面</H1>
+</div>
+
+<div class="row">
+    @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+    {
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <th colspan="2" align="center">Login Input</th>
+            </tr>
+            <tr>
+                <td>帳號: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Account)
+                </td>
+            </tr>
+            <tr>
+                <td>密碼: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Passwrod)
+                </td>
+            </tr>
+            
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+
+        <br/>
+        <p> @Model.ShowMessage</p>
+    }
+</div>
